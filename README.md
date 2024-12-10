@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=1210718010&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
+[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=muxmus&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)
 
 [博客 / Blog](https://muxmus.com)
 
 ### 关注 / Follow
 
 [![QQ](https://img.shields.io/badge/%E6%9C%A8%E8%BE%9B%E6%9C%A8%E6%9D%89-d30d13?style=flat-square&logo=tencentqq&logoColor=ffffff)](https://qm.qq.com/cgi-bin/qm/qr?k=rAN0D35rucs2u-MGcaKEHeWCG9tpTPaE)
-[![Steam](https://img.shields.io/badge/1210718010-182551?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/muxmus/)
+[![Steam](https://img.shields.io/badge/muxmus-182551?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/muxmus/)
 [![哔哩哔哩](https://img.shields.io/badge/%E6%9C%A8%E8%BE%9B%E6%9C%A8%E6%9D%89-00a1d6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/397649728/)
-[![Github](https://img.shields.io/badge/1210718010-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/1210718010)
+[![Github](https://img.shields.io/badge/muxmus-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/muxmus)
 
 ### 电子邮箱 / E-Mail
 
