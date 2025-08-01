@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://muxmus.com/img/bk_8.png" width = "128" height = "128" align=center />
+<img src="https://img.muxmus.com/icon/bk_8.png" width = "128" height = "128" align=center />
 
 <br>
 <br>
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://ys.mihoyo.com/main/character/mondstadt?char=8" target="_blank"><img src="https://muxmus.com/img/pyro.svg" width = "40" height = "40" align=center /></a>
-<a href="https://ys.mihoyo.com/main/character/fontaine?char=6" target="_blank"><img src="https://muxmus.com/img/hydro.svg" width = "40" height = "40" align=center /></a>
-<a href="https://ys.mihoyo.com/main/character/inazuma?char=1" target="_blank"><img src="https://muxmus.com/img/anemo.svg" width = "40" height = "40" align=center /></a>
-<a href="https://ys.mihoyo.com/main/character/liyue?char=6" target="_blank"><img src="https://muxmus.com/img/electro.svg" width = "40" height = "40" align=center /></a>
-<a href="https://ys.mihoyo.com/main/character/inazuma?char=14" target="_blank"><img src="https://muxmus.com/img/dendro.svg" width = "40" height = "40" align=center /></a>
-<a href="https://ys.mihoyo.com/main/character/inazuma?char=0" target="_blank"><img src="https://muxmus.com/img/cryo.svg" width = "40" height = "40" align=center /></a>
-<a href="https://ys.mihoyo.com/main/character/fontaine?char=9" target="_blank"><img src="https://muxmus.com/img/geo.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/mondstadt?char=8" target="_blank"><img src="https://img.muxmus.com/svg/pyro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/fontaine?char=6" target="_blank"><img src="https://img.muxmus.com/svg/hydro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/inazuma?char=1" target="_blank"><img src="https://img.muxmus.com/svg/anemo.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/liyue?char=6" target="_blank"><img src="https://img.muxmus.com/svg/electro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/inazuma?char=14" target="_blank"><img src="https://img.muxmus.com/svg/dendro.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/inazuma?char=0" target="_blank"><img src="https://img.muxmus.com/svg/cryo.svg" width = "40" height = "40" align=center /></a>
+<a href="https://ys.mihoyo.com/main/character/fontaine?char=9" target="_blank"><img src="https://img.muxmus.com/svg/geo.svg" width = "40" height = "40" align=center /></a>
